@@ -7,6 +7,7 @@
 	<title>bd</title>
 </head>
 <body>
+	<hr>
 
 <center>
 	<form method="POST" action="comAlunos.php">
